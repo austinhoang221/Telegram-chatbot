@@ -7,4 +7,4 @@ In order to launch the project you need to obtain the API keys from Binance and 
 
 ## How to run the project?
 
-First install the npm dependencies by running `npm install`. Then start the project by running `npm start`. After these steps you can send the commands to the Telegram bot to get the prices for cryptocurrencies, for example, `/price BTC` (for getting the price of Bitcoin).
+First install the npm dependencies by running `npm install`. Then start the project by running `npm start`. After these steps you can send the commands to the Telegram bot to get the prices for cryptocurrencies, for example, `/start` (for getting the real time price of Bitcoin).
