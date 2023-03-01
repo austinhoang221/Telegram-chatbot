@@ -1,7 +1,3 @@
-# Crypto Telegram Bot
-
-This repository contains the code for the aricle [How to create a Telegram Crypto Bot in Javascript](https://olefyrenko.com/blog/how-to-create-a-telegram-crypto-bot-in-javascript) in my blog.
-
 ## Env variables
 
 In order to launch the project you need to obtain the API keys from Binance and Telegram
