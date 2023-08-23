@@ -1,5 +1,5 @@
-## Env variables
-
+## Telegram Chatbot Binance Market
+This project was created by JavaScript/Telegram Chatbot
 In order to launch the project you need to obtain the API keys from Binance and Telegram
 
 - For Binance - register [here](http://bit.ly/binance-telegram-bot) (referral link). Then generate the keys on [API Management](https://www.binance.com/en/my/settings/api-management) page.
